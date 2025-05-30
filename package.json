@@ -29,8 +29,7 @@
     "redis": "^5.1.0"
   },
   "devDependencies": {
-    "@vercel/node": "^1.16.0",
-    "@types/bcryptjs": "^2.4.6",
+   "@types/bcryptjs": "^2.4.6",
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.2",
     "@types/jsonwebtoken": "^9.0.9",
